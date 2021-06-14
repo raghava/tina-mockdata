@@ -9,18 +9,18 @@
         "size": "small"
       }
     },
-    "items": [
+     "items": [
       {
         "label": "Contact",
-        "link": "/page"
+        "link": "/page/about"
       },
       {
         "label": "Pricing",
-        "link": "/page"
+        "link": "/page/pricing"
       },
       {
         "label": "Services",
-        "link": "/page"
+        "link": "/page/services"
       }
     ]
   },
