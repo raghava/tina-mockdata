@@ -28,7 +28,7 @@
     {
       "_template": "hero",
       "tagline": "Welcome to my shoppe!",
-      "headline": "This is a large display heading.",
+      "headline": "GitHub Headline",
       "text": "Give your team a contextual, intuitive editing experience without sacrificing code quality. Unlock your team with next-gen editing.",
       "image": {
         "src": "/canal.jpg",
