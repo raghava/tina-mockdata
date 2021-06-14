@@ -12,17 +12,16 @@
     "items": [
       {
         "label": "Contact",
-        "link": "/page/about"
+        "link": "about"
       },
       {
         "label": "Pricing",
-        "link": "/page/pricing"
+        "link": "pricing"
       },
       {
         "label": "Services",
-        "link": "/page/services"
+        "link": "services"
       }
-    ]
   },
   "blocks": [
     {
