@@ -1,0 +1,166 @@
+{
+  "nav": {
+    "wordmark": {
+      "name": "Flower Shoppe",
+      "icon": {
+        "color": "primary",
+        "name": "FiAperture",
+        "style": "float",
+        "size": "small"
+      }
+    },
+    "items": [
+      {
+        "label": "Pricing",
+        "link": "/"
+      },
+      {
+        "label": "Contact",
+        "link": "/"
+      },
+      {
+        "label": "Services",
+        "link": "/"
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "_template": "features",
+      "items": [
+        {
+          "_template": "feature",
+          "icon": {
+            "color": "red",
+            "name": "BiCoffeeTogo",
+            "style": "circle"
+          },
+          "title": "Amazing Feature",
+          "text": "Connect to any data source, edit with Tina. Designed for the Jamstack with a focus on React-based sites. ",
+          "actions": [
+            {
+              "label": "Learn More",
+              "type": "link",
+              "icon": "true"
+            }
+          ]
+        },
+        {
+          "_template": "feature",
+          "icon": {
+            "color": "primary",
+            "name": "BiCloud",
+            "style": "circle"
+          },
+          "title": "Another Great Thing",
+          "text": "Connect to any data source, edit with Tina. Designed for the Jamstack with a focus on React-based sites. ",
+          "actions": [
+            {
+              "label": "Learn More",
+              "type": "link",
+              "icon": "true"
+            }
+          ]
+        },
+        {
+          "_template": "feature",
+          "icon": {
+            "color": "yellow",
+            "name": "BiMapAlt",
+            "style": "circle"
+          },
+          "title": "Three To Round It Out",
+          "text": "Connect to any data source, edit with Tina. Designed for the Jamstack with a focus on React-based sites. ",
+          "actions": [
+            {
+              "label": "Learn More",
+              "type": "link",
+              "icon": "true"
+            }
+          ]
+        }
+      ],
+      "style": {
+        "color": "default"
+      }
+    }
+  ],
+  "footer": {
+    "social": {
+      "twitter": "https://twitter.com/tina_cms",
+      "github": "https://github.com/tinacms/tina-tailwind-inline-demo"
+    },
+    "navlist": [
+      {
+        "_template": "nav",
+        "title": "Product",
+        "items": [
+          {
+            "label": "Form Templates",
+            "link": "#"
+          },
+          {
+            "label": "Landing Page",
+            "link": "#"
+          },
+          {
+            "label": "Figma Files",
+            "link": "#"
+          },
+          {
+            "label": "Background Info",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "_template": "nav",
+        "title": "Company",
+        "items": [
+          {
+            "label": "About",
+            "link": "#"
+          },
+          {
+            "label": "Carriers",
+            "link": "#"
+          },
+          {
+            "label": "Pricing",
+            "link": "#"
+          },
+          {
+            "label": "Security",
+            "link": "#"
+          },
+          {
+            "label": "Contact Us",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "_template": "nav",
+        "title": "Legal",
+        "items": [
+          {
+            "label": "Privacy Policy",
+            "link": "#"
+          },
+          {
+            "label": "Terms Of Service",
+            "link": "#"
+          },
+          {
+            "label": "Trademark Policy",
+            "link": "#"
+          },
+          {
+            "label": "Inactivity Policy",
+            "link": "#"
+          }
+        ]
+      }
+    ]
+  }
+}
