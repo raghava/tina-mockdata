@@ -35,7 +35,7 @@
             "name": "BiCoffeeTogo",
             "style": "circle"
           },
-          "title": "pricing Feature",
+          "title": "Pricing#1",
           "text": "Connect to any data source, edit with Tina. Designed for the Jamstack with a focus on React-based sites. ",
           "actions": [
             {
@@ -52,7 +52,7 @@
             "name": "BiCloud",
             "style": "circle"
           },
-          "title": "Pricing is Amazing",
+          "title": "Pricing#2",
           "text": "Connect to any data source, edit with Tina. Designed for the Jamstack with a focus on React-based sites. ",
           "actions": [
             {
@@ -69,7 +69,7 @@
             "name": "BiMapAlt",
             "style": "circle"
           },
-          "title": "Three To Round It Out",
+          "title": "Pricing#3",
           "text": "Connect to any data source, edit with Tina. Designed for the Jamstack with a focus on React-based sites. ",
           "actions": [
             {
