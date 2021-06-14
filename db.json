@@ -1,4 +1,5 @@
 {
+  "home": {
   "nav": {
     "wordmark": {
       "name": "Flower Shoppe",
@@ -187,4 +188,5 @@
       }
     ]
   }
+}
 }
